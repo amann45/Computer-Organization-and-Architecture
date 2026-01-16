@@ -1,4 +1,4 @@
-// multiplication of two unsigned integer binary numbers by partial product method.
+// Multiplication of two unsigned integer using binary numbers by partial product method.
 
 #include <stdio.h>
 
