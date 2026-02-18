@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main() {
+int main() 
+{
     unsigned int dividend, divisor;
     int quotient = 0, remainder = 0;
     int i;
@@ -30,4 +31,5 @@ int main() {
     printf("Quotient: %d\n", quotient);
     printf("Remainder: %d\n", remainder);
     return 0;
+
 }
